@@ -41,7 +41,7 @@ setTimeout('greeting()', 3000);
 function greeting(){
     location.href = "index.html";
 }
-	
+
 </script>
 
 </body>
